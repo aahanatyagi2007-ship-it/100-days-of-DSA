@@ -11,7 +11,7 @@ arr[i] = arr[i-1];
 }
 arr[pos] = value;
 size++;
-for(int i=0; i < size; i++ {
-printf("%d", arr[i]);
+for(int i=0; i < size; i++) {
+printf("%d ", arr[i]);
   }
 }
